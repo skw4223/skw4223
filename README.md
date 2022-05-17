@@ -59,6 +59,9 @@ __Tearch cam2__
 __Sinstagram__
 - Instagram clone
 
+__Edu48__
+- 2048 게임을 변형한 것으로 알파벳 순서, 주기율표 순서를 학습 가능
+
 
 
 </br>
